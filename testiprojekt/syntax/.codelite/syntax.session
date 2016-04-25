@@ -12,14 +12,14 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/if.php" Name="FileName"/>
-      <int Value="19" Name="FirstVisibleLine"/>
+      <int Value="22" Name="FirstVisibleLine"/>
       <int Value="20" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/case.php" Name="FileName"/>
-      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="3" Name="FirstVisibleLine"/>
       <int Value="4" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -33,28 +33,28 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/search_character.php" Name="FileName"/>
-      <int Value="10" Name="FirstVisibleLine"/>
+      <int Value="9" Name="FirstVisibleLine"/>
       <int Value="10" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/game1.php" Name="FileName"/>
-      <int Value="10" Name="FirstVisibleLine"/>
+      <int Value="9" Name="FirstVisibleLine"/>
       <int Value="10" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/while.php" Name="FileName"/>
-      <int Value="10" Name="FirstVisibleLine"/>
+      <int Value="9" Name="FirstVisibleLine"/>
       <int Value="10" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/math.php" Name="FileName"/>
-      <int Value="30" Name="FirstVisibleLine"/>
+      <int Value="53" Name="FirstVisibleLine"/>
       <int Value="51" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds">
@@ -63,8 +63,8 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="/var/www/html/testiprojekt/syntax/negatory.php" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="26" Name="CurrentLine"/>
+      <int Value="10" Name="FirstVisibleLine"/>
+      <int Value="34" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
