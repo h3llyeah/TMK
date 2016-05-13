@@ -4,7 +4,7 @@ function print_array($array)
 {
 	for ($i=0;$i<sizeof($array);$i++)
 	{
-		  echo ($i+1).". $array[$i] ";
+		  echo ($i+1).". $array[$i]<p> ";
 	}
 }
 
@@ -16,7 +16,7 @@ function vaheta_elemendid($i,$j, $array)
 	return $array;
 }
 
-$mas=['Karu','Jänes','Hunt','Rebane','Hirv','Hiir','Põder','Ahv','Mäger','Mutt'];
+$mas=['Karu','JÃ¤nes','Hunt','Rebane','Hirv','Hiir','PÃµder','Ahv','MÃ¤ger','Mutt'];
 print_array($mas);
 print_array(vaheta_elemendid(0,1,$mas))
 
