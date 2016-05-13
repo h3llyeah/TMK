@@ -1,0 +1,7 @@
+Käsitööõlle andmebaas:
+Koostada käsitööõlle andmebaas, milles sisaldub:
+a) kalender: *pruulitud õlledele(retsept, iseärasused); *planeeritud pruulimistele (nt mingid tähtpäevad); *käigus olevate pruulide olekud (nt villimise vajadus, dryhopi või jahutustsükli kirjeldus)
+b) siduda see inimeste andmebaasiga, kes millist õlut hindab, mida võiks pruulida
+c) inimeste andmebaas-arveldamine: nimeline kann+ncf tag, kulumõõturi info,
+d) hindamissüsteem
+e) kuluarvestamine (kuvab vaadi jääki, muutus uC'st, haldus andmebaasis)
