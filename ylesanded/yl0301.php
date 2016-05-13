@@ -1,14 +1,13 @@
-https://github.com/h3llyeah/phpkursus2016/tree/master/ylesanded </br>
+https://github.com/h3llyeah/phpkursus2016/tree/master/ylesanded </br></br>
 <?php
 function print_array($array)
 {
 	for ($i=0;$i<sizeof($array);$i++)
 	{
-		  echo $array[$i].'<p>';
-
+		  echo ($i+1).". $array[$i]<p>";
 	}
 }
 
-$mas=['Karu','Jänes','Hunt','Rebane','Hirv','Hiir','Põder','Ahv','Mäger','Mutt'];
+$mas=['Karu','JÃ¤nes','Hunt','Rebane','Hirv','Hiir','PÃµder','Ahv','MÃ¤ger','Mutt'];
 print_array($mas);
 ?>
