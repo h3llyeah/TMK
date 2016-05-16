@@ -1,22 +1,22 @@
 https://github.com/h3llyeah/phpkursus2016/tree/master/ylesanded </br></br>
 <?php
-
 function string_info($i)
 {
-	echo "Sıne algab :".$i[0]."<br>";
-	echo "Sıne lıppeb :".$i[(strlen($i)-1)]."<br>";
-	echo "Sıne lowercase :".strtolower($i)."<br>";
+	echo "S√µne algab : ".$i[0]."<br>";
+	echo "S√µne l√µppeb : ".$i[(strlen($i)-1)]."<br>";
+	echo "S√µne lowercase : ".strtolower($i)."<br>";
 	$j=strtolower($i);
-	echo "Sıne uppercase :".strtoupper($i)."<br>";
+	echo "S√µne uppercase : ".strtoupper($i)."<br>";
 	
 	for ($k=0; $k<=strlen($i); $k++)
 	{
-		echo $k."<br>";
+        if ($i[$k]=="a")
+        {
+            $b++;
+        }
 	}
+    echo $b;
 }
-
-$string="ABcdeaA";
-
+$string="ABaacdeaA";
 string_info($string);
-
 ?>
